@@ -17,3 +17,6 @@ HTML5 / CSS3 / JavaScript
 
 Amazon S3 (Static Website Hosting)
 
+THE LINK FOR THE LIVE WEBSITE IS : http://my-static-devops-site.s3-website.eu-north-1.amazonaws.com/
+You can check it out it was hosted by AWS following the rules of the Static Website Hosting with S3
+
